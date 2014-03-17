@@ -10,7 +10,7 @@ This image is available as a trusted build on the docker index. The easiest way 
 
 .. code-block:: bash
 
-    $ docker pull spin-docker/sd-mongo
+    $ docker pull atbaker/sd-mongo
 
 Alternatively, you can clone this repository and build the image yourself:
 
