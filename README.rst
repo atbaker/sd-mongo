@@ -41,6 +41,6 @@ Or can connect to MongoDB directly if you have the MongoDB client installed:
 Learn more
 ----------
 
-Learn more about this image and how to use it in the spin-docker documentation:
+Learn more about this image and how to use it in the spin-docker documentation: http://spin-docker.readthedocs.org/
 
-Learn more about Dockerfiles and how to build them in the Docker documentation:
+Learn more about Dockerfiles and how to build them in the Docker documentation: http://docs.docker.io/en/latest/reference/builder/
