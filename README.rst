@@ -36,7 +36,7 @@ Or can connect to MongoDB directly if you have the MongoDB client installed:
 .. code-block:: bash
 
     # Use your container's host and port
-    $ mongo --port 49154 -h 127.0.0.1
+    $ mongo --host 127.0.0.1 --port 49154
 
 Learn more
 ----------
